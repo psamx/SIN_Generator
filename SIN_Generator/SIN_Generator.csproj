@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="RIPEMD160" Version="1.0.1" />
+    <PackageReference Include="Base58Check" Version="0.2.0" />
+    <PackageReference Include="SimpleBase" Version="3.0.2" />
+  </ItemGroup>
+</Project>
